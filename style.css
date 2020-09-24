@@ -306,7 +306,6 @@ header .header_container .header_icons .headr_icon:hover {
   align-items: center;
   padding-bottom: 100px;
   padding-top: 30px;
-  cursor: pointer;
 }
 .contact .content_icons .icon {
   display: flex;
@@ -318,6 +317,7 @@ header .header_container .header_icons .headr_icon:hover {
   background-color: gray;
   border: 1px solid gray;
   border-radius: 50%;
+  cursor: pointer;
 }
 .contact .content_icons .icon:hover {
   background-color: #2ecc71;
